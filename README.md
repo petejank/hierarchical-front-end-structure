@@ -160,8 +160,7 @@ Follow these guidelines when implementing structure presented in [Project Struct
         └── pages
             └── Main
                 ├── utils
-                │   └── utils
-                │       └── findUser.js
+                │   └── findUser.js
                 ├── index.js
                 ├── test.js
                 └── style.sass
